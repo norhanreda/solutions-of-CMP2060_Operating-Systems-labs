@@ -1,0 +1,20 @@
+﻿  Source.c
+D:\Astudy\second year\second term\operating systems\labs\lab3\learn c++\first1\first1\Source.c(6,17): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+D:\Astudy\second year\second term\operating systems\labs\lab3\learn c++\first1\first1\Source.c(6,17): error C3872: '0x201d': this character is not allowed in an identifier
+D:\Astudy\second year\second term\operating systems\labs\lab3\learn c++\first1\first1\Source.c(6,36): error C2065: '“thisISaSTring”': undeclared identifier
+D:\Astudy\second year\second term\operating systems\labs\lab3\learn c++\first1\first1\Source.c(7,7): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+D:\Astudy\second year\second term\operating systems\labs\lab3\learn c++\first1\first1\Source.c(7,16): error C3872: '0x201d': this character is not allowed in an identifier
+D:\Astudy\second year\second term\operating systems\labs\lab3\learn c++\first1\first1\Source.c(7,16): error C2065: '“Hello': undeclared identifier
+D:\Astudy\second year\second term\operating systems\labs\lab3\learn c++\first1\first1\Source.c(7,16): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+D:\Astudy\second year\second term\operating systems\labs\lab3\learn c++\first1\first1\Source.c(7,7): warning C4024: 'puts': different types for formal and actual parameter 1
+D:\Astudy\second year\second term\operating systems\labs\lab3\learn c++\first1\first1\Source.c(7,16): error C2146: syntax error: missing ')' before identifier 'World”'
+D:\Astudy\second year\second term\operating systems\labs\lab3\learn c++\first1\first1\Source.c(7,24): error C2059: syntax error: ')'
+D:\Astudy\second year\second term\operating systems\labs\lab3\learn c++\first1\first1\Source.c(8,9): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+D:\Astudy\second year\second term\operating systems\labs\lab3\learn c++\first1\first1\Source.c(8,17): error C2065: '“This': undeclared identifier
+D:\Astudy\second year\second term\operating systems\labs\lab3\learn c++\first1\first1\Source.c(8,17): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+D:\Astudy\second year\second term\operating systems\labs\lab3\learn c++\first1\first1\Source.c(8,9): warning C4024: 'printf': different types for formal and actual parameter 1
+D:\Astudy\second year\second term\operating systems\labs\lab3\learn c++\first1\first1\Source.c(8,17): error C2146: syntax error: missing ')' before identifier 'character'
+D:\Astudy\second year\second term\operating systems\labs\lab3\learn c++\first1\first1\Source.c(8,61): error C2017: illegal escape sequence
+D:\Astudy\second year\second term\operating systems\labs\lab3\learn c++\first1\first1\Source.c(8,62): error C3872: '0x201d': this character is not allowed in an identifier
+D:\Astudy\second year\second term\operating systems\labs\lab3\learn c++\first1\first1\Source.c(8,75): error C2059: syntax error: ')'
+D:\Astudy\second year\second term\operating systems\labs\lab3\learn c++\first1\first1\Source.c(6,1): error C2075: 'str': initialization requires a brace-enclosed initializer list
